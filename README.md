@@ -51,10 +51,15 @@ What is the defect or error rate?
 ## Process
 
 Prepare Data – Clean and format data, convert into table (Ctrl + T)
+
 Create Pivot Table – Insert → Pivot Table to summarize data
+
 Add Charts – Insert bar, pie, or line charts from pivot table
+
 Insert Slicers – Add filters like date, category, gender
+
 Design Dashboard – Arrange charts & slicers on one sheet
+
 Format & Finalize – Add title, colors, and make it clean & interactive
 
 -<a href="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-03-18 191446.png">Dashboard </a>
