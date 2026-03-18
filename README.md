@@ -43,5 +43,35 @@ What is the cost per lead (CPL)?
 
 What is the process efficiency rate?
 What is the average turnaround time?
-
 What is the defect or error rate?
+
+## Dataset and Dashboard 
+-<a href="https://github.com/sanikadeshmukh04/Blinkit-Excel-Dashboard/blob/main/Blinkit-Excel-dashboard.xlsx">Data and Dashboard</a>
+
+## Process
+
+Prepare Data – Clean and format data, convert into table (Ctrl + T)
+Create Pivot Table – Insert → Pivot Table to summarize data
+Add Charts – Insert bar, pie, or line charts from pivot table
+Insert Slicers – Add filters like date, category, gender
+Design Dashboard – Arrange charts & slicers on one sheet
+Format & Finalize – Add title, colors, and make it clean & interactive
+
+-<a href="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-03-18 191446.png">Dashboard </a>
+
+## Final Conclusion
+
+This project successfully transformed raw data into meaningful insights using data cleaning, transformation, and visualization techniques. 
+The analysis helped identify key patterns, trends, and relationships within the dataset, enabling better understanding and decision-making.
+The use of interactive dashboards improved data accessibility and made insights easy to interpret for stakeholders.
+
+## Project Insights
+
+Identified key trends and patterns in the dataset that impact business decisions
+Discovered hidden relationships between variables through data visualization
+Improved data quality by handling missing values, duplicates, and inconsistencies
+Created interactive dashboards for real-time and user-friendly analysis
+Highlighted performance metrics (KPIs) to track progress effectively
+Enabled data-driven decision-making through clear and concise reporting
+
+
