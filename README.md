@@ -62,8 +62,9 @@ Design Dashboard – Arrange charts & slicers on one sheet
 
 Format & Finalize – Add title, colors, and make it clean & interactive
 
+## Dashboard
 -<img width="1555" height="922" alt="Screenshot 2026-03-18 191446" src="https://github.com/user-attachments/assets/8ecb022a-9b36-48c5-b228-8a6e5a5cb7f1"/>
-">Dashboard </a>
+">
 
 ## Final Conclusion
 
